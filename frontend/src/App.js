@@ -18,6 +18,9 @@ export default function LocalStorageSetting() {
       <button onClick={handleClickIncrease}>Increase</button>
       <button onClick={handleClickDecrease}>Decrease</button>
       <h1>{count}</h1>
+      <div>
+        bye bye
+      </div>
     </div>
   );
 }
